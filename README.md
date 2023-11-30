@@ -1,4 +1,4 @@
-# Applicant Default Prediction - Documentation part
+# [Applicant Default Prediction](https://loan-management-financial-service-be6cf0b29218e5972068f23a7a846.gitlab.io/) - Documentation part
 
 ## Introduction
 
